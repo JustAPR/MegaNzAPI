@@ -1,0 +1,4 @@
+fastapi[all]
+requests
+asyncio
+pycryptodome
